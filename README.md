@@ -13,9 +13,12 @@ Canal de youtube: [Learning risk modelling](https://www.youtube.com/@LearningRis
 
 ## Actividades para la finalización del curso
 
-Da click [aquí](https://n9.cl/hvy6ar) para acceder a los los videos (3 videos) y el material (presentación) para la finalización del curso. 
-Como parte del cierre del curso, les proponemnos realizar los ejercicios propuestos en los videos (excel y python) y subirlos en [esta](https://eafit-my.sharepoint.com/:f:/g/personal/lmsepulvec_eafit_edu_co/Enii5QT8yRxNk07BEzDLdiQBZC6hFm4xbV0tcpFlgI6bvg?e=jRxhs8) carpeta. El plazo para la realización es el lunes 30 de octubre. Les estaremos haciendo llegar la realimentación de los ejercicios por este mismo medio.
+Los siguientes videos son la continuidad del curso:
 
+[Video 1](https://youtu.be/z_xI7Lv-Kqc)
+[Video 2](https://youtu.be/ZAT9zFP8BO4)
+[Video 3](https://youtu.be/UuXKHDdlWGA)
 
+Como parte del cierre del curso, les proponemnos realizar los ejercicios propuestos en los videos (excel y python) y subirlos en [esta](https://eafit-my.sharepoint.com/:f:/g/personal/lmsepulvec_eafit_edu_co/Enii5QT8yRxNk07BEzDLdiQBZC6hFm4xbV0tcpFlgI6bvg?e=jRxhs8) carpeta. Pueden iniciar sesión con cualquier correo electrónico. El plazo para la realización es el 10 de noviembre. Les estaremos haciendo llegar la realimentación de los ejercicios por este mismo medio.
 
 
